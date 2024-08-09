@@ -1,5 +1,5 @@
 {
-  "homepage":"https://KEVIN00017.github.io/calculadorareact",
+  "homepage": "https://KEVIN00017.github.io/DeployComGitHub",
   "name": "calculator",
   "version": "0.1.0",
   "license": "MIT",
@@ -7,7 +7,7 @@
     "chai": "^4.2.0",
     "gh-pages": "^6.1.1",
     "prettier": "^1.17.1",
-    "react-scripts": "^5.0.1"
+    "react-scripts": "^3.0.1"
   },
   "dependencies": {
     "big.js": "^5.2.2",
